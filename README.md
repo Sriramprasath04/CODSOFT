@@ -4,9 +4,7 @@ In this repo, I'll upload all the tasks that I would done during the Java Develo
 
 ✅ Task-1 ( Number Game )
 
-
 🔲 Task-2
-
 
 🔲 Task-3 
 
