@@ -1,6 +1,6 @@
 # CODSOFT
 
-In this repo, I'll upload all the tasks that I would done during the Java Development internship. 
+In this repo, I'll upload all the tasks that I would done during the Java Development internship at CodSoft. 
 
 ✅ Task-1 ( Number Game )
 
