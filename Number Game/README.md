@@ -1,4 +1,4 @@
-<h1 align="center">NUMBER GAME<h1>
+<h1 align="center">NUMBER GAME</h1>
   
 It is a simple Java program that challenges you to guess a random number within a given range. It allows you a limited number of chances to guess the correct number.
 
