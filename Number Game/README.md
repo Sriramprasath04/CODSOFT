@@ -2,8 +2,9 @@
   
 It is a simple Java program that challenges you to guess a random number within a given range. It allows you a limited number of chances to guess the correct number.
 
-### Range: 1-100
-### Chances: 7
+Here I have set the range and chances as
+Range: 1-100
+Chances: 7
 
 # Program Description
 - The Number Game is a game where you have to guess a random number between 1 and 100.
