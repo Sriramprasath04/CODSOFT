@@ -6,7 +6,7 @@ In this repo, I'll upload all the tasks that I would done during the Java Develo
 
 ✅ Task-2 ( Student Grade Calculator )
 
-🔲 Task-3 
+✅ Task-3 ( ATM Interface )
 
 ### Tech Stack
 - Java
