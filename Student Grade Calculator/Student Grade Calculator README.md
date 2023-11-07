@@ -24,7 +24,7 @@ Here I have set the range for Grades as
 - Grade Calculation: Assign grades based on the average percentage achieved.
 - Display Results: Show the total marks, average percentage, and the corresponding grade to the user
 
-# How to Play
+# How to use
 - Run the Java program Main.java.
 - Enter the Number of Subjects you have.
 - Enter your marks on each subject (out of 100).
